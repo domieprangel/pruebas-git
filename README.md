@@ -1,6 +1,6 @@
 <h1>CLASE GIY Y GITHUB</h1>
 <h2>Crear un nuevo repositorio</h2>
-<ul>Para crear un nuevo repositorio escribe en el navegador repo.new</ul>
+*Para crear un nuevo repositorio escribe en el navegador repo.new
 <h2>Abrir editor de texto web</h2>
 * Mover cursos a encabezado de GitHub y presionar la tecla de ```.``` 
 <h2>Configuración de usuario y correo en Git</h2>
