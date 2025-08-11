@@ -4,7 +4,7 @@
 <h2>Abrir editor de texto web</h2>
 * Mover cursos a encabezado de GitHub y presionar la tecla de ```.``` 
 <h2>Configuración de usuario y correo en Git</h2>
-* ```git config --global user.name "Nombre"```
+* ````git config --global user.name "Nombre"````
 * ```git config --global user.email correo@mail.com```
 Ver configuración:
 * ```git config --list```
